@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Shoe(int)
+comment0.text=\r\n\ construct\ a\ shoe\r\n
+comment1.params=
+comment1.target=void\ addDeck()
+comment1.text=\r\n\ Add\ a\ deck\ into\ the\ shoe\r\n
+comment2.params=
+comment2.target=void\ shuffle()
+comment2.text=\r\n\ shuffle\ the\ deck\r\n
+comment3.params=
+comment3.target=void\ reshuffle()
+comment3.text=\r\n\ reshuffle\ the\ cards\ from\ the\ trash\ back\ into\ the\ deck\r\n
+comment4.params=
+comment4.target=int\ shoeSize()
+comment4.text=\r\n\ return\ the\ size\ of\ the\ shoe\r\n\ @return\ the\ size\ of\ the\ shoe\r\n
+comment5.params=
+comment5.target=Card\ drawCard()
+comment5.text=\r\n\ Takes\ a\ card\ out\ of\ the\ deck\ and\ returns\ it\r\n\ @return\ Card\ card\ The\ card\ taken\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString()\ to\ test\ all\ methods\ of\ the\ shoe\r\n\ @return\ String\ \r\n
+numComments=7

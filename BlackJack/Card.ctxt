@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=s\ r
+comment0.target=Card(int,\ int)
+comment0.text=\r\n\ Parameterized\ constructor\ of\ the\ card\ class\r\n\ @param\ int\ s\ The\ suit\ of\ the\ card\r\n\ @param\ int\ r\ The\ rank\ of\ the\ card\r\n
+comment1.params=
+comment1.target=java.lang.String\ getSuit()
+comment1.text=\r\n\ Returns\ the\ suit\ of\ the\ card\r\n\ @return\ String\ s\ The\ suit\r\n
+comment2.params=
+comment2.target=java.lang.String\ getRank()
+comment2.text=\r\n\ Returns\ the\ rank\ of\ the\ card\r\n\ @return\ String\ r\ The\ rank\r\n
+comment3.params=
+comment3.target=void\ aceValue()
+comment3.text=\r\n\ Changes\ the\ value\ of\ the\ ace\:\ 1\ or\ 11\r\n\ void\r\n
+comment4.params=
+comment4.target=int\ getValue()
+comment4.text=\r\n\ Returns\ the\ value\ of\ the\ card\r\n\ @return\ int\ v\ The\ value\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ a\ String\ representation\ of\ the\ class\r\n\ @return\ A\ string\ representation\ of\ the\ class\r\n
+numComments=6
